@@ -1,0 +1,16 @@
+[
+{
+  "modid": "customsidebar",
+  "name": "Custom Sidebar",
+  "description": "API for work with FunnyTown mods and server plugins",
+  "version": "1.0",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SGK"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
